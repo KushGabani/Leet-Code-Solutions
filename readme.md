@@ -34,20 +34,14 @@ It's corresponding solution file is available at
 - Difficulty: Easy
 
   - String
-
     - [x] 13. Roman to Integer
-
   - Array
-
     - [x] 1. Two Sum
 
 - Difficulty: Medium
 
   - Array
-
     - [x] 3. Longest Substring Without Repeating Characters
     - [x] 238. Product of Array Except Itself
-
   - Linked List
-
     - [x] 2. Add Two Numbers
