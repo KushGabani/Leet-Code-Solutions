@@ -35,15 +35,18 @@ It's corresponding solution file is available at
 
   - String
     - [x] 13. Roman to Integer
+    - [x] 20. Valid Parenthesis
   - Array
     - [x] 1. Two Sum
+    - [x] 35. Search Insert Position
 
 - Difficulty: Medium
 
   - String
-    - [x] 8. String to Integer (atoi)
     - [x] 3. Longest Substring Without Repeating Characters
+    - [x] 8. String to Integer (atoi)
   - Array
+    - [x] 15. 3 Sum
     - [x] 238. Product of Array Except Itself
   - Linked List
     - [x] 2. Add Two Numbers
