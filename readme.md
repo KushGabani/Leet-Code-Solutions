@@ -40,8 +40,11 @@ It's corresponding solution file is available at
 
 - Difficulty: Medium
 
-  - Array
+  - String
+    - [x] 8. String to Integer (atoi)
     - [x] 3. Longest Substring Without Repeating Characters
+  - Array
     - [x] 238. Product of Array Except Itself
   - Linked List
     - [x] 2. Add Two Numbers
+    - [x] 19. Remove Nth Node from the End of the Linked List
