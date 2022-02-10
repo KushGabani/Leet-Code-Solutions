@@ -32,7 +32,6 @@ It's corresponding solution file is available at
 ## 🌱 Solutions Index
 
 - Difficulty: Easy
-
   - String
     - [x] 13. Roman to Integer
     - [x] 20. Valid Parenthesis
@@ -41,7 +40,6 @@ It's corresponding solution file is available at
     - [x] 35. Search Insert Position
 
 - Difficulty: Medium
-
   - String
     - [x] 3. Longest Substring Without Repeating Characters
     - [x] 8. String to Integer (atoi)
