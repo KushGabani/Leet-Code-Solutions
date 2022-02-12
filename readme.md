@@ -35,9 +35,12 @@ It's corresponding solution file is available at
   - String
     - [x] 13. Roman to Integer
     - [x] 20. Valid Parenthesis
+    - [x] 58. Length of the Last Word
   - Array
     - [x] 1. Two Sum
     - [x] 35. Search Insert Position
+    - [x] 53. Maximum Subarray
+    - [x] 66. Plus One
 
 - Difficulty: Medium
   - String
