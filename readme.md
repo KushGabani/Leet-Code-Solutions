@@ -32,15 +32,18 @@ It's corresponding solution file is available at
 ## 🌱 Solutions Index
 
 - Difficulty: Easy
+
   - String
     - [x] 13. Roman to Integer
     - [x] 20. Valid Parenthesis
     - [x] 58. Length of the Last Word
+    - [x] 69. Sqrt
   - Array
     - [x] 1. Two Sum
     - [x] 35. Search Insert Position
     - [x] 53. Maximum Subarray
     - [x] 66. Plus One
+    - [x] 67. Add Binary
 
 - Difficulty: Medium
   - String
